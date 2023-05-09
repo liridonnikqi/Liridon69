@@ -5,9 +5,3 @@
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=Liridon69" alt="https://github.com/Liridon69" />
 </p>
-
-
-
-🎓 **Degrees**
-- Professional Bachelor Applied Computer Science 
-
